@@ -82,7 +82,7 @@ This toolkit provides an interactive menu-driven CLI system to perform essential
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/<your-username>/linux-devops-automation-toolkit.git
+git clone https://github.com/tanishka167/linux-devops-automation-toolkit.git
 cd linux-devops-automation-toolkit
  ```
 
