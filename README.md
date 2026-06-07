@@ -22,25 +22,6 @@ This toolkit provides an interactive menu-driven CLI system to perform essential
 
 ---
 
-## 📂 Project Structure
-
-linux-devops-automation-toolkit/
-│
-├── toolkit.sh # Main menu-driven script
-├── scripts/
-│ ├── system_info.sh
-│ ├── user_management.sh
-│ ├── file_management.sh
-│ ├── network_tools.sh
-│ ├── system_monitor.sh
-│ ├── log_analyzer.sh
-│ └── backup.sh
-│
-└── README.md
-
-
----
-
 ## ⚙️ Features
 
 ### 🖥️ System Information
